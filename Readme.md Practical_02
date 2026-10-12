@@ -1,0 +1,43 @@
+Practical_02
+
+## Photoshop 7.0 Practical: Photo Retouching
+
+**Step 1: Open Photo**
+
+* Click **File → Open** and select a photograph.
+
+**Step 2: Crop and Straighten**
+
+* Select **Crop Tool (C)**.
+* Crop unwanted areas and straighten the image.
+
+**Step 3: Adjust Brightness/Contrast**
+
+* Go to **Image → Adjustments → Brightness/Contrast**.
+* Adjust brightness and contrast, then click OK.
+
+**Step 4: Correct Colors**
+
+* Go to **Image → Adjustments → Color Balance** (`Ctrl + B`).
+* Adjust colors.
+* Use **Image → Adjustments → Hue/Saturation** (`Ctrl + U`) to improve saturation.
+
+**Step 5: Remove Unwanted Spots**
+
+* Use **Clone Stamp Tool (S)** to remove spots.
+* Hold `Alt` and click a clean area to sample it.
+* Paint over unwanted spots.
+* Repeat for at least three spots or objects.
+
+**Step 6: Create Before/After Versions**
+
+* Keep a copy of the original photograph.
+* Place the original and edited photos side by side.
+* Add labels using the Type Tool (`T`): **BEFORE** and **AFTER**.
+
+**Step 7: Save Files**
+
+* **PSD:** File → Save As → `Photo_Retouching.psd`
+* **JPG:** File → Save As → JPEG → `Photo_Retouching.jpg`
+
+**Result:** The photograph is cropped, color-corrected, retouched, and presented in before-and-after format.
