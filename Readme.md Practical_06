@@ -1,0 +1,71 @@
+Practical_06
+
+## Photoshop 7.0 Practical: College Event Poster
+
+**Step 1: Create Document**
+
+* Go to **File → New**.
+* Set Width: `1200 px`, Height: `1500 px`.
+* Click OK.
+
+**Step 2: Create Background**
+
+* Create a new layer named `Background`.
+* Use the Gradient Tool (`G`) to apply a blue-purple gradient.
+
+**Step 3: Add Images**
+
+* Open a relevant event or technology photo.
+* Copy and paste it into the poster.
+* Use `Ctrl + T` to resize.
+* Rename the layer `Event Image`.
+
+**Step 4: Advanced Selection**
+
+* Use **Magnetic Lasso Tool (L)** to select the main subject.
+* Press `Ctrl + J` to copy the selection onto a new layer.
+* Rename it `Selected Subject`.
+
+**Step 5: Add Layer Mask**
+
+* Select the subject layer.
+* Use **Layer → Add Layer Mask**, if available.
+* Use a black brush to hide unwanted areas.
+
+**Step 6: Add Adjustment Layer**
+
+* Go to **Layer → New Adjustment Layer → Brightness/Contrast**.
+* Adjust brightness and contrast.
+
+**Step 7: Apply Filter**
+
+* Create a new layer.
+* Select **Filter → Render → Clouds**.
+* Rename it `Cloud Effect`.
+
+**Step 8: Apply Blending Mode**
+
+* Select the Cloud Effect layer.
+* Change blending mode to **Screen** or **Overlay**.
+
+**Step 9: Add Brush Effect**
+
+* Create a new layer named `Glow Effect`.
+* Use a soft round Brush (`B`) with a bright color to create glow effects.
+
+**Step 10: Add Text**
+
+Use the Type Tool (`T`) to add:
+
+**Step 11: Apply Layer Style**
+
+* Double-click the title layer.
+* Apply **Drop Shadow**.
+
+**Step 12: Organize and Save**
+
+* Rename all layers meaningfully.
+* Save editable file as `TechNova_Poster.psd`.
+* Export the final poster as JPG or PNG.
+
+**Result:** A professional college event poster with images, text, effects, and organized layers is completed.
