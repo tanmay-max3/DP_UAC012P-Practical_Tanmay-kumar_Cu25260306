@@ -1,0 +1,65 @@
+# Desktop-Publishing-UAC012P--Practicals-
+
+Practical_01
+
+## Photoshop 7.0 Practical: Basic Tools and Shapes
+
+**Step 1: Create Document**
+
+1. Open Photoshop 7.0.
+2. Click **File → New**.
+3. Set Width: `1200 px`, Height: `800 px`, Resolution: `72`.
+4. Click OK.
+
+**Step 2: Explore Interface**
+
+* **Toolbar:** Left side tools.
+* **Options Bar:** Top settings for selected tool.
+* **Layers Panel:** View and manage layers.
+* **Menu Bar:** File, Edit, Image, Layer, Filter, etc.
+* **Properties:** Explore available tool settings. (This panel may not exist in Photoshop 7.0.)
+
+**Step 3: Use Basic Tools**
+
+1. **Move Tool (V):** Move objects.
+2. **Marquee Tool (M):** Create rectangular selections.
+3. **Lasso Tool (L):** Select irregular areas.
+4. **Brush Tool (B):** Draw on the canvas.
+5. **Eraser Tool (E):** Erase parts of a layer.
+6. **Crop Tool (C):** Crop the image.
+7. **Shape Tool (U):** Draw shapes.
+
+**Step 4: Create Composition**
+
+1. Draw a rectangle using the Shape Tool.
+2. Draw a circle using the Ellipse Tool.
+3. Draw a polygon using the Polygon Tool.
+4. Use at least two colors, such as blue and red.
+5. Use the Move Tool to arrange the shapes.
+
+**Step 5: Add Text**
+
+Select the **Type Tool (T)** and write:
+
+```text
+Name: Tanmay kumar
+Roll Number: Cu25260306
+Course: BCA
+```
+
+**Step 6: Save Files**
+
+**Save PSD:**
+
+1. Click File → Save As.
+2. Name: `Basic_Tools.psd`
+3. Select Photoshop PSD format and save.
+
+**Export JPG:**
+
+1. Click File → Save As.
+2. Select JPEG format.
+3. Name: `Basic_Tools.jpg`
+4. Click Save.
+
+**Result:** A basic composition with three shapes, two colors, text, and Photoshop tools is completed.
