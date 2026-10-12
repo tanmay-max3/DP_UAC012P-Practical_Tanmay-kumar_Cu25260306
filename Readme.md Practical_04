@@ -1,0 +1,42 @@
+Practical_04
+
+## Photoshop 7.0 Practical: Subject Selection & Editing
+
+**Step 1: Open Photo**
+
+* Go to **File → Open** and select a photograph.
+
+**Step 2: Select Subject**
+
+* Use the **Lasso Tool (L)** to select the main subject.
+* Go to **Select → Feather** and set `1–2 px` to smooth edges.
+
+**Step 3: Copy Subject**
+
+* Press `Ctrl + J` to copy the selected subject to a new layer.
+
+**Step 4: Add Two Adjustment Layers**
+
+* Go to **Layer → New Adjustment Layer → Brightness/Contrast** and adjust brightness.
+* Add another adjustment layer using **Hue/Saturation** to improve colors.
+
+**Step 5: Modify Background**
+
+* Select the background and use **Hue/Saturation** to change its color.
+
+**Step 6: Use Layer Mask**
+
+* Add a layer mask if available.
+* Use a black brush to hide areas and a white brush to reveal them.
+
+**Step 7: Create Before/After**
+
+* Place the original photo on the left and edited photo on the right.
+* Add **BEFORE** and **AFTER** labels using the Type Tool (`T`).
+
+**Step 8: Save Files**
+
+* Save the editable file as `Subject_Editing.psd`.
+* Export the final image as `Subject_Editing.jpg`.
+
+**Result:** The subject is selected, edited, and displayed in a before-and-after comparison.
