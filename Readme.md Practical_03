@@ -1,0 +1,50 @@
+Practical_03
+
+## Photoshop 7.0 Practical: Travel Poster
+
+**Step 1: Create Document**
+
+* Go to **File → New**.
+* Set Width: `1200 px`, Height: `1500 px`.
+* Click OK.
+
+**Step 2: Add Background**
+
+* Create a new layer named `Background`.
+* Apply a suitable color or gradient using the Gradient Tool (`G`).
+
+**Step 3: Add Three Photos**
+
+* Open three travel photos.
+* Copy and paste each photo into the poster.
+* Use **Move Tool (V)** and `Ctrl + T` to resize and position them.
+* Rename layers `Mountain`, `Forest`, and `River`.
+
+**Step 4: Apply Layer Masks**
+
+* Select a photo layer.
+* Use **Layer → Add Layer Mask**, if available.
+* Use a black brush to hide unwanted parts and blend images.
+
+**Step 5: Add Title**
+
+* Select Type Tool (`T`).
+* Write ** welcome to paris**.
+* Add supporting text: `Mountains • Nature • Adventure`.
+
+**Step 6: Apply Layer Style**
+
+* Select the title layer.
+* Double-click it and apply **Drop Shadow**.
+
+**Step 7: Organize Layers**
+
+* Keep the background, three photos, masks, and text on separate layers.
+* Give each layer a meaningful name.
+
+**Step 8: Save and Export**
+
+* Save the editable file as `Travel_Poster.psd`.
+* Export the final poster as `Travel_Poster.jpg`.
+
+**Result:** A creative travel poster with three photographs, blended layers, text, and a layer style is completed.
