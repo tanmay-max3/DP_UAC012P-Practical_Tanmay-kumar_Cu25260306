@@ -1,0 +1,57 @@
+Practical_05
+
+## Photoshop 7.0 Practical: Creative Digital Artwork
+
+**Step 1: Create Document**
+
+* Go to **File → New**.
+* Set Width: `1200 px`, Height: `800 px`.
+* Click OK.
+
+**Step 2: Create Background**
+
+* Create a new layer named `Background`.
+* Use the **Gradient Tool (G)** to apply a blue-purple gradient.
+
+**Step 3: Apply Two Filters**
+
+* Create a new layer and select **Filter → Render → Clouds**.
+* Create another layer and apply **Filter → Blur → Radial Blur**.
+
+**Step 4: Use Custom Brush**
+
+* Select Brush Tool (`B`).
+* Use a star brush or create one using **Edit → Define Brush**.
+* Add stars or glowing dots on a new layer named `Brush Effects`.
+
+**Step 5: Apply Blending Modes**
+
+* Set the Clouds layer to **Screen**.
+* Set the Brush Effects layer to **Overlay**.
+
+**Step 6: Add Layer Style**
+
+* Select Type Tool (`T`) and write **GALAXY ART**.
+* Double-click the text layer and apply **Drop Shadow**.
+
+**Step 7: Add Supporting Text**
+
+* Write `EXPLORE THE UNKNOWN`.
+* Use white or cyan color with a suitable font size.
+
+**Step 8: Organize Layers**
+Rename layers as:
+
+* `Background`
+* `Clouds Effect`
+* `Radial Blur`
+* `Brush Effects`
+* `Title`
+* `Supporting Text`
+
+**Step 9: Save and Export**
+
+* Save editable file as `Galaxy_Artwork.psd`.
+* Export final artwork as `Galaxy_Artwork.jpg` or `.png`.
+
+**Result:** Creative artwork with filters, brush effects, blending modes, text, and layer styles is completed.
